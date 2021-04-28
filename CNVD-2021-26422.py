@@ -12,7 +12,7 @@ def title():
     print("""
                           亿邮电子邮件系统 远程命令执行漏洞
                                   CNVD-2021-26422
-                      use: python3  HikvisionInformation.py
+                      use: python3  CNVD-2021-26422.py
                                  Author: Henry4E36
     """)
 
